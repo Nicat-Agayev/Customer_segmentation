@@ -4,7 +4,7 @@ An unsupervised machine-learning project that segments a company's customers int
 
 **Dataset:** [Customer Personality Analysis (Kaggle)](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
 
-**[View the notebook on nbviewer](https://nbviewer.org/github/Nicat-Agayev/customer-segmentation/blob/main/notebooks/customer_segmentation.ipynb)** — if GitHub's preview shows an error, this link always renders the notebook in full.
+**[View the notebook on nbviewer](https://nbviewer.org/github/Nicat-Agayev/Customer_segmentation/blob/main/notebooks/customer_segmentation.ipynb)** — if GitHub's preview shows an error, this link always renders the notebook in full.
 
 ## Steps
 
